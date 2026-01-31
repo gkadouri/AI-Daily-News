@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>My n8n Daily News</title>
-    <link>https://github.com/your-username/your-repo</link>
+    <link>https://github.com/gkadouri/AI-Daily-News</link>
     <language>en-us</language>
     <itunes:author>AI Newsbot</itunes:author>
     <description>Daily automated news updates via n8n.</description>
