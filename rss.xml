@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>My n8n Daily News</title>
-    <link>https://github.com/gkadouri/AI-Daily-News</link>
-    <language>en-us</language>
-    <itunes:author>AI Newsbot</itunes:author>
-    <description>Daily automated news updates via n8n.</description>
-    <itunes:image href="https://raw.githubusercontent.com/gkadouri/AI-Daily-News/refs/heads/main/44224618-1754897426942-129d0843ca943.jpg"/>
-    
-    </channel>
-</rss>
+
+    <item>
+      <title>$('Get a file').first().json.episodeTitle</title>
+      <pubDate>$('Get a file').first().json.pubDate</pubDate>
+      <enclosure url="$('Get a file').first().json.directAudioLink" length="0" type="audio/mpeg"/>
+      <itunes:image href="$('Get a file').first().json.directImageLink"/>
+      <guid isPermaLink="false">rgybbw</guid>
+    </item>
+    PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJzcyB2ZXJzaW9uPSIyLjAiIHhtbG5zOml0dW5lcz0iaHR0cDovL3d3dy5pdHVuZXMuY29tL2R0ZHMvcG9kY2FzdC0xLjAuZHRkIj4KICA8Y2hhbm5lbD4KICAgIDx0aXRsZT5NeSBuOG4gRGFpbHkgTmV3czwvdGl0bGU+CiAgICA8bGluaz5odHRwczovL2dpdGh1Yi5jb20vZ2thZG91cmkvQUktRGFpbHktTmV3czwvbGluaz4KICAgIDxsYW5ndWFnZT5lbi11czwvbGFuZ3VhZ2U+CiAgICA8aXR1bmVzOmF1dGhvcj5BSSBOZXdzYm90PC9pdHVuZXM6YXV0aG9yPgogICAgPGRlc2NyaXB0aW9uPkRhaWx5IGF1dG9tYXRlZCBuZXdzIHVwZGF0ZXMgdmlhIG44bi48L2Rlc2NyaXB0aW9uPgogICAgPGl0dW5lczppbWFnZSBocmVmPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZ2thZG91cmkvQUktRGFpbHktTmV3cy9yZWZzL2hlYWRzL21haW4vNDQyMjQ2MTgtMTc1NDg5NzQyNjk0Mi0xMjlkMDg0M2NhOTQzLmpwZyIvPgogICAgCiAgICA8L2NoYW5uZWw+CjwvcnNzPgo=
