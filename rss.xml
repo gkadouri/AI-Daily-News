@@ -6,7 +6,7 @@
     <language>en-us</language>
     <itunes:author>AI Newsbot</itunes:author>
     <description>Daily automated news updates via n8n.</description>
-    <itunes:image href="YOUR_DEFAULT_COVER_IMAGE_URL"/>
+    <itunes:image href="https://raw.githubusercontent.com/gkadouri/AI-Daily-News/refs/heads/main/44224618-1754897426942-129d0843ca943.jpg"/>
     
     </channel>
 </rss>
