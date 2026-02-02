@@ -5,5 +5,14 @@
     <link>https://github.com/gkadouri/AI-Daily-News</link>
     <language>he</language>
     <description>Daily automated news updates.</description>
+  
+    <item>
+      <title>החדשות החמות עם דודו נעים</title>
+      <description><![CDATA[No description available.]]></description>
+      <pubDate>Mon, 02 Feb 2026 00:41:25 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=14L7W4NIJ3LE9KUwtroYHkkJa727BBSOm" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://drive.google.com/uc?export=download&id=14L7W4NIJ3LE9KUwtroYHkkJa727BBSOm"/>
+      <guid isPermaLink="false">vnqgz</guid>
+    </item>
   </channel>
 </rss>
