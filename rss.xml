@@ -15,6 +15,16 @@
     <itunes:image href="https://raw.githubusercontent.com/gkadouri/AI-Daily-News/refs/heads/main/442242618-1754897426942-129d0843ca943.jpg"/>
     
     
+    
+    <item>
+      <title>חדשות בקצב גבוה עם דודו נעים</title>
+      <description><![CDATA[Daily AI News]]></description>
+      <pubDate>Mon, 02 Feb 2026 01:29:43 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/gkadouri/AI-Daily-News/main/audio/2026-02-01.wav" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://raw.githubusercontent.com/gkadouri/AI-Daily-News/main/images/2026-02-01.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false">b0iq4</guid>
+    </item>
     <item>
       <title>חדשות בקצב גבוה עם דודו נעים</title>
       <description><![CDATA[Daily AI News]]></description>
