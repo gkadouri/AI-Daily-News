@@ -14,6 +14,16 @@
     <description>Daily automated news updates via n8n.</description>
     <itunes:image href="https://raw.githubusercontent.com/gkadouri/AI-Daily-News/refs/heads/main/442242618-1754897426942-129d0843ca943.jpg"/>
     
+    
+    <item>
+      <title>חדשות בקצב גבוה עם דודו נעים</title>
+      <description><![CDATA[Daily AI News]]></description>
+      <pubDate>Mon, 02 Feb 2026 01:22:17 GMT</pubDate>
+      <enclosure url="$('Create a file').first().json.content.download_url" length="0" type="audio/mpeg"/>
+      <itunes:image href="$('Create a file1').first().json.content.download_url"/>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false">q587w</guid>
+    </item>
     <item>
       <title>החדשות החמות עם דודו נעים</title>
       <description><![CDATA[No description available.]]></description>
