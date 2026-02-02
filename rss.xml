@@ -25,15 +25,7 @@
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">b0iq4</guid>
     </item>
-    <item>
-      <title>חדשות בקצב גבוה עם דודו נעים</title>
-      <description><![CDATA[Daily AI News]]></description>
-      <pubDate>Mon, 02 Feb 2026 01:22:17 GMT</pubDate>
-      <enclosure url="$('Create a file').first().json.content.download_url" length="0" type="audio/mpeg"/>
-      <itunes:image href="$('Create a file1').first().json.content.download_url"/>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false">q587w</guid>
-    </item>
+
     
   </channel>
 </rss>
