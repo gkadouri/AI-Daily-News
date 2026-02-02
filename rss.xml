@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>My n8n Daily News</title>
-    <link>https://github.com/gkadouri/AI-Daily-News</link>
-    <language>he</language>
-    <itunes:author>AI Newsbot</itunes:author>
-    <description>Daily automated news updates via n8n.</description>
-    <itunes:image href="YOUR_COVER_ART_URL.jpg"/>
-    
-    </channel>
-</rss>
+
+    <item>
+      <title>מהפכות בבינה מלאכותית וסערות בעולמות הקומיקס וההשקעות</title>
+      <description><![CDATA[undefined]]></description>
+      <pubDate>Mon, 02 Feb 2026 00:02:08 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1fHSTY-C0lFvTD_q3PTAg22yGpO5l4AOx" length="0" type="audio/wav"/>
+      <itunes:image href="https://drive.google.com/uc?export=download&id=1fHSTY-C0lFvTD_q3PTAg22yGpO5l4AOx"/>
+      <guid isPermaLink="false">7650d</guid>
+    </item>
+    PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJzcyB2ZXJzaW9uPSIyLjAiIHhtbG5zOml0dW5lcz0iaHR0cDovL3d3dy5pdHVuZXMuY29tL2R0ZHMvcG9kY2FzdC0xLjAuZHRkIiB4bWxuczpjb250ZW50PSJodHRwOi8vcHVybC5vcmcvcnNzLzEuMC9tb2R1bGVzL2NvbnRlbnQvIj4KICA8Y2hhbm5lbD4KICAgIDx0aXRsZT5NeSBuOG4gRGFpbHkgTmV3czwvdGl0bGU+CiAgICA8bGluaz5odHRwczovL2dpdGh1Yi5jb20vZ2thZG91cmkvQUktRGFpbHktTmV3czwvbGluaz4KICAgIDxsYW5ndWFnZT5lbi11czwvbGFuZ3VhZ2U+CiAgICA8aXR1bmVzOmF1dGhvcj5BSSBOZXdzYm90PC9pdHVuZXM6YXV0aG9yPgogICAgPGRlc2NyaXB0aW9uPkRhaWx5IGF1dG9tYXRlZCBuZXdzIHVwZGF0ZXMgdmlhIG44bi48L2Rlc2NyaXB0aW9uPgogICAgPGl0dW5lczppbWFnZSBocmVmPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZ2thZG91cmkvQUktRGFpbHktTmV3cy9yZWZzL2hlYWRzL21haW4vNDQyMjQyNjE4LTE3NTQ4OTc0MjY5NDItMTI5ZDA4NDNjYTk0My5qcGciLz4KICAgIAogICAgPC9jaGFubmVsPgo8L3Jzcz4K
