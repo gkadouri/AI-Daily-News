@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My n8n Daily News</title>
+    <title>חדשות AI יומי</title>
     <link>https://github.com/gkadouri/AI-Daily-News</link>
     <language>he</language>
     <itunes:author>AI Newsbot</itunes:author>
@@ -11,7 +11,7 @@
     </itunes:owner>
     <itunes:category text="AI"/>
     <itunes:explicit>no</itunes:explicit>
-    <description>Daily automated news updates via n8n.</description>
+    <description>Daily AI automated news updates</description>
     <itunes:image href="https://raw.githubusercontent.com/gkadouri/AI-Daily-News/refs/heads/main/442242618-1754897426942-129d0843ca943.jpg"/>
    
     
